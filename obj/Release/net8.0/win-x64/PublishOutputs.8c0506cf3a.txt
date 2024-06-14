@@ -1,0 +1,2 @@
+E:\FOLDER\DEV\Dev\HACK\XORCODER\bin\Release\net8.0\win-x64\publish\XORCODER.pdb
+E:\FOLDER\DEV\Dev\HACK\XORCODER\bin\Release\net8.0\win-x64\publish\XORCODER.exe
